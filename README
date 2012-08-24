@@ -1,0 +1,22 @@
+##############################################################
+#Paul Calley
+#JBEI
+#############################################################
+
+##FILES#####################################################
+
+22633491.txt-Tab delimited spreadsheet of Glycosolation data
+
+curated.txt- Tab delimited spreadsheet of glycomod data with 
+	    AGI's.
+
+convert.py- convert 22633491.txt to curated.txt by matching
+	    the correct AGI's
+
+cur_to_json.py-Convert curated.txt to json format. output
+		is MASCP.GlycoModReader.txt
+
+tair.txt-Tair dataset for matching of AGI's 
+
+MASCP.GlycoModReader.txt- Output in JSON format.
+
